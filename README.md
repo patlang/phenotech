@@ -4,7 +4,7 @@
 
 Here you can find supplementary information for the ddRAD and hyRAD methods and raw data used in:
 
-Lang, PLM <i>et al.</i> 2020, <b>Hybridization ddRAD-sequencing for population genomics of non-model plants using highly degraded historical specimen DNA</b>, Molecular Ecology Resources, *DOI_as_link*
+Lang, PLM <i>et al.</i> 2020, <b>Hybridization ddRAD-sequencing for population genomics of non-model plants using highly degraded historical specimen DNA</b>, Molecular Ecology Resources, [DOI:10.1111/1755-0998.13168](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13168). 
 
 ## Protocols
 
